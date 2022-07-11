@@ -10,6 +10,7 @@ public class _3Set {
 		names.add("A");
 		names.add("B");
 		names.add("C"); // fix for feature in dev
+		names.add("D"); // fix for feature in dev
 		System.out.println(names);
 	}
 
