@@ -9,7 +9,7 @@ public class _2Map {
 		Map<String, String> names = new HashMap<>();
 		names.put("A", "1");
 		names.put("C", "2"); // fix for issue in bugfix
-		System.out.println(names);
+		System.out.println(names); 
 	}
 
 }
